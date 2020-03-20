@@ -14,9 +14,23 @@ We are tracking the impact of the pandemic on the Los Angeles region. We will up
     <th>Date</th>
     <th>Total_Cases_LA</th>
     <th>Total_New_Cases_LA</th>
-    <th>Total_Deaths_LA</th>
+    <th>Total_New_Deaths_LA</th>
     <th>Total_Cases_WestHollywood</th>
     <th>New_Cases_WestHollywood</th>
+  </tr>
+  <tr>
+    <! –– Date -->
+    <td>3/19/2020</td>
+    <! -- Total_Cases_LA -->
+    <td>231</td>
+    <! -- Total_New_Cases_LA -->
+    <td>41</td>
+    <! -- Total_Deaths_LA --> 
+    <td>1</td>
+    <! -- Total_WEHO --> 
+    <td>12</td>
+    <! -- Total_New_WEHO --> 
+    <td>1</td>
   </tr>
   <tr>
     <! –– Date -->
